@@ -17,16 +17,16 @@ To run a specific project “DayX” from the terminal:
 1. **Navigate to the specific project:**
 
 
-    cd DayX
+    `cd DayX`
 
 
 2. **Restore the necessary dependencies:**
 
 
-    dotnet restore
+    `dotnet restore`
 
 
 4. **Then, build and run the project:**
 
 
-    dotnet run
+    `dotnet run`
